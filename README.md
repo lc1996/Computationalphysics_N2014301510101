@@ -5,3 +5,5 @@
 - [x] [Exercise_02](https://www.zybuluo.com/luliang96/note/503469)
 
 - [x] [Exercise_03](https://www.zybuluo.com/luliang96/note/512524)
+
+- [x] [Exercise_04](https://www.zybuluo.com/luliang96/note/523230)
