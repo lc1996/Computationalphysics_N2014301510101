@@ -21,3 +21,5 @@
 - [x] [Exercise_10](https://www.zybuluo.com/luliang96/note/580729)
 
 - [x] [Exercise_11](https://www.zybuluo.com/luliang96/note/588738)
+
+- [x] [Exercise_12](https://www.zybuluo.com/luliang96/note/596580)
