@@ -25,3 +25,5 @@
 - [x] [Exercise_12](https://www.zybuluo.com/luliang96/note/596580)
 
 - [x] [Exercise_13](https://www.zybuluo.com/luliang96/note/604938)
+
+- [x] [Final Exercise:Properties of a Dilute Gas](https://www.zybuluo.com/luliang96/note/619669)
